@@ -1,0 +1,12 @@
+﻿生成启动时间为 2019/4/28 11:40:47。
+     1>项目“D:\代码1\代码\Project 4.272\Project 4.272\Project 4.272.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VS 2013旗舰版\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test_4.272.c
+         test_4.272.c
+     1>d:\代码1\代码\project 4.272\project 4.272\test_4.272.c(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vs 2013旗舰版\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>已完成生成项目“D:\代码1\代码\Project 4.272\Project 4.272\Project 4.272.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.49
