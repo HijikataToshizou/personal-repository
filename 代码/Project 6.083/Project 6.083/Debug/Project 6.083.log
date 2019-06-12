@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/6/10 17:56:12。
+     1>项目“D:\代码1\代码\Project 6.083\Project 6.083\Project 6.083.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VS 2013旗舰版\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test_6.083.c
+         test_6.083.c
+     1>d:\代码1\代码\project 6.083\project 6.083\test_6.083.c(7): warning C4013: “printf”未定义；假设外部返回 int
+     1>d:\代码1\代码\project 6.083\project 6.083\test_6.083.c(18): warning C4013: “scanf”未定义；假设外部返回 int
+     1>d:\代码1\代码\project 6.083\project 6.083\test_6.083.c(20): warning C4013: “system”未定义；假设外部返回 int
+     1>d:\代码1\代码\project 6.083\project 6.083\test_6.083.c(16): warning C4101: “i”: 未引用的局部变量
+     1>d:\代码1\代码\project 6.083\project 6.083\test_6.083.c(16): warning C4101: “j”: 未引用的局部变量
+       Link:
+         D:\VS2013\VS 2013旗舰版\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\代码1\代码\Project 6.083\Debug\Project 6.083.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\代码1\代码\Project 6.083\Debug\Project 6.083.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\代码1\代码\Project 6.083\Debug\Project 6.083.lib" /MACHINE:X86 Debug\test_6.083.obj
+         Project 6.083.vcxproj -> D:\代码1\代码\Project 6.083\Debug\Project 6.083.exe
+     1>已完成生成项目“D:\代码1\代码\Project 6.083\Project 6.083\Project 6.083.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.46
